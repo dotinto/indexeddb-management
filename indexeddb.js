@@ -50,5 +50,3 @@ let request = objectStore.delete(key);
 
 // update data in the object store
 let request = objectStore.put(data);.
-
-Written by Chatsonic
